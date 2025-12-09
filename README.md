@@ -9,7 +9,7 @@ This project demonstrates:
 - Error handling & logging
 - Command-line interface design
 
-##Features
+## Features
 
 ### Bulk Delete via API  
 Reads a CSV of `resource_id` values and triggers deletion using the Zeta Delete API.
